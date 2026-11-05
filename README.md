@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Rodrigo 👋
 
-<!--
-**rodrigolabticjr/rodrigolabticjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+2nd-year IT student at the South East Asian Institute of Technology in Tupi, focused on cybersecurity.
 
-Here are some ideas to get you started:
+## What I'm learning
+- Google Cybersecurity Certificate (in progress)
+- Cybersecurity, University of Maryland (in progress)
+- Google AI Prompting (in progress)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working on
+- Building a home lab with Kali Linux and a vulnerable VM
+- Writing up TryHackMe rooms as I complete them
+
+## Links
+- Portfolio: https://rodrigolabticjr.github.io
+- LinkedIn: https://www.linkedin.com/in/rodrigo-labtic-675a9b446
+- Email: rodrigolabtic5@gmail.com
